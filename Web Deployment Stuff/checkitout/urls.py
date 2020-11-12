@@ -7,8 +7,9 @@ admin.site.index_title = "Welcome to Answer Verifier"
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('authentication.urls')),
-    path('/home', include('home.urls')),
+    path('', include('rectifica.urls')),
+
+
 
 
 ]
