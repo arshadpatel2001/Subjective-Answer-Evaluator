@@ -1,7 +1,9 @@
 package com.example.answer
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.activity_register_student.*
 
 class RegisterStudent : AppCompatActivity() {
@@ -11,12 +13,17 @@ class RegisterStudent : AppCompatActivity() {
 
         btnLogRegister.setOnClickListener {
             onBackPressed()
-
+        }
+        register.setOnClickListener {
+            val intent = Intent(this@RegisterStudent, LoginStudent::class.java)
+            startActivity(intent)
         }
     }
     override fun onBackPressed() {
         super.onBackPressed()
-        overridePendingTransition(R.anim.from_left,R.anim.from_right)
+        val intent = Intent(this@RegisterStudent, LoginStudent::class.java)
+        startActivity(intent)
+        overridePendingTransition(R.anim.from_right,R.anim.from_left)
     }
 
 }
