@@ -9,4 +9,4 @@
 9. python manage.py makemigrations
 10. python manage.py migrate
 11. Now you can find tables created under rectifica->schemas->tables option
-Enjoy :)
+           Enjoy :)
