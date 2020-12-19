@@ -53,20 +53,15 @@ vector<node*> children(node* root)
 
 node* findingChild(char c, node* root)
 {
-    for (int ii = 0; ii < root->wChildren.size(); ii++)
+    for (int i = 0; i < root->wChildren.size(); i++)
     {
-        node* temp1 = root->wChildren.at(ii);//returns the character at the specified position
+        node* temp1 = root->wChildren.at(i);//returns the character at the specified position
         if (Data(temp1) == c)
         {
             return temp1;
         }
     }
     return NULL;
-}
-
-node Trie(node* root) {
-    root = new node();
-    return *root;
 }
 
 void addWord(string s, node* root)
@@ -77,9 +72,10 @@ void addWord(string s, node* root)
         setWordTerminate(current); // an empty word
         return;
     }
-    for (int ii = 0; ii < s.length(); ii++)
+    //Not an empty word
+    for (int i = 0; i < s.length(); i++)
     {
-        node* child = findingChild(s[ii], current);
+        node* child = findingChild(s[i], current);
         if (child != NULL)
         {
             current = child;
@@ -87,35 +83,14 @@ void addWord(string s, node* root)
         else
         {
             node* tmp = new node();
-            setData(s[ii], tmp);
+            setData(s[i], tmp);
             appendChild(tmp, current);
             current = tmp;
         }
-        if (ii == s.length() - 1)
+        if (i == s.length() - 1)
             setWordTerminate(current);
     }
 }
-
-bool searchWord(string s)
-{
-    node* current = root;
-    while (current != NULL)
-    {
-        for (int i = 0; i < s.length(); i++)
-        {
-            node* temp1 = findingChild(s[i], current);
-            if (temp1 == NULL)
-                return false;
-            current = temp1;
-        }
-        if (WordTerminate(current))
-            return true;
-        else
-            return false;
-    }
-    return false;
-}
-
 
 void parseTree(node* current, char* s, vector<string>& res, bool& loop)
 {
@@ -131,17 +106,17 @@ void parseTree(node* current, char* s, vector<string>& res, bool& loop)
                 if (res.size() > 20)
                     loop = false;
             }
-            vector<node*> child = children(current);
-            for (int jj = 0; jj < child.size() && loop; jj++)
+            vector<node*> child = children(current);//Stores all children of that particular node in child vector
+            for (int j = 0; j < child.size() && loop; j++)
             {
                 strcpy_s(k, s);
                 //strcpy(k, s);
-                aa[0] = Data(child[jj]);
+                aa[0] = Data(child[j]);
                 aa[1] = '\0';
                 strcat_s(k, aa);
                 //strcat(k, aa);
                 if (loop)
-                    parseTree(child[jj], k, res, loop);
+                    parseTree(child[j], k, res, loop);
             }
         }
     }
@@ -150,13 +125,14 @@ void parseTree(node* current, char* s, vector<string>& res, bool& loop)
 bool Complete(string s, vector<string>& res, node* root)
 {
     node* current = root;
-    for (int ii = 0; ii < s.length(); ii++)
+    for (int i = 0; i < s.length(); i++)
     {
-        node* tmp = findingChild(s[ii], current);
-        if (tmp == NULL)
+        node* tmp = findingChild(s[i], current);
+        if (tmp == NULL)           
             return false;
         current = tmp;
     }
+    
     char c[100];
     strcpy_s(c, s.c_str());
     //strcpy(c, s.c_str());
@@ -169,7 +145,7 @@ bool Complete(string s, vector<string>& res, node* root)
 bool loadDictionary(node* trie, string fn)
 {
     ifstream words;
-    ifstream input;
+    
     cout << "Entered in load dictionary" << endl;
     words.open(fn.c_str());
     if (!words.is_open())
@@ -177,10 +153,9 @@ bool loadDictionary(node* trie, string fn)
         cout << "Could not open Dictionary file" << endl;
         return false;
     }
+    //If file is open
     while (!words.eof())
     {
-
-
 
         char s[100];
         words >> s;
@@ -189,7 +164,7 @@ bool loadDictionary(node* trie, string fn)
     }
     cout << "Dict loaded";
     words.close();
-    input.close();
+    
     return true;
 }
 
@@ -220,7 +195,7 @@ void WriteNewWord(node* trie)
         else
         {
             ofstream out;
-            out.open("dictionary.txt", ios::app);
+            out.open("WordList.txt", ios::app);
             if (!out.is_open())
             {
                 cout << "Sorry!\nCould not open the dictionary!\n";
@@ -246,10 +221,10 @@ void WriteNewWord(node* trie)
 
 int main()
 {
-    node* trie = new node(); //Where new is used to allocate memory for a C++ class object, the object's constructor is called after the memory is allocated
+    root = new node(); //Where new is used to allocate memory for a C++ class object, the object's constructor is called after the memory is allocated
     char mode;
     cout << "Loading the dictionary file" << endl;
-    loadDictionary(trie, "dictionary.txt");
+    loadDictionary(root, "WordList.txt");
     while (1)
     {
         cout << endl << endl;
@@ -273,7 +248,7 @@ int main()
             cin >> s;
             transform(s.begin(), s.end(), s.begin(), ::tolower);
             vector<string> ListOfWords;
-            Complete(s, ListOfWords, trie);
+            Complete(s, ListOfWords, root);
             if (ListOfWords.size() == 0)
             {
                 cout << "Sorry!\nNo suggestions" << endl;
@@ -282,7 +257,7 @@ int main()
                 cin >> pp;
                 if (pp == 'y' || pp == 'Y')
                 {
-                    WriteNewWord(trie);
+                    WriteNewWord(root);
                 }
             }
             else
@@ -297,11 +272,11 @@ int main()
         continue;
 
         case '2':
-            WriteNewWord(trie);
+            WriteNewWord(root);
             continue;
 
         case '3':
-            delete trie;
+            delete root;
             return 0;
         default:
             cout << "Invalid input!";
