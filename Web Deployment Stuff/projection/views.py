@@ -54,7 +54,7 @@ def login(request):
             if user.is_staff == True:
                 return render(request, 'teacher.html')
             elif user.is_staff == False:
-                return render(request, 'student.html')
+                return redirect('http://127.0.0.1:8001/')
             else:
                 print('Not working')
                 return render(request, 'index.html')
