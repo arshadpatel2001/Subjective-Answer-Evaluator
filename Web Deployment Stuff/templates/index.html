@@ -12,12 +12,16 @@
 		<!-- Header -->
 			<header id="header">
 				<div class="inner">
-					<a href="index.html" class="logo">Rectifica</a>
+					<a href="" class="logo">Rectifica</a>
 					<nav id="nav">
+						{% if user.is_authenticated %}
+							<li>Hey, {{user.first_name}}</li>
+							<a href="/logout">Logout</a>
+							{% else %}
+							<a href="/login">Login</a>
+							<a href="/register">Register</a>
+						{% endif %}
 
-						<a href="index.html">Home</a>
-						<a href="/login">Login</a>
-						<a href="/register">Register</a>
 					</nav>
 					<a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
 				</div>
