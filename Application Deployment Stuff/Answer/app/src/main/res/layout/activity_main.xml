@@ -7,6 +7,7 @@
     android:background="#ffffff"
     tools:context=".MainActivity">
 
+
     <TextView
         android:id="@+id/textView8"
         android:layout_width="178dp"
@@ -178,17 +179,23 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.831" />
 
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="159dp"
-        android:layout_height="144dp"
+    <androidx.cardview.widget.CardView
+        android:id="@+id/myCardView"
+        android:layout_width="107dp"
+        android:layout_height="104dp"
+        app:cardCornerRadius="50dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.936"
-        app:layout_constraintStart_toStartOf="@+id/gifImageView"
+        app:layout_constraintHorizontal_bias="0.952"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.047"
-        app:srcCompat="@drawable/ex" />
+        app:layout_constraintVertical_bias="0.06">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/ex" />
+    </androidx.cardview.widget.CardView>
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

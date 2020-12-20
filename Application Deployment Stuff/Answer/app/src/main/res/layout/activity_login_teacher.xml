@@ -141,7 +141,7 @@
     </androidx.cardview.widget.CardView>
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/login_t"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:background="@drawable/bg_colour"
@@ -149,9 +149,11 @@
         android:textColor="#ffffff"
         android:textSize="25sp"
         android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/cardView"
-        app:layout_constraintHorizontal_bias="0.423"
+        app:layout_constraintHorizontal_bias="0.404"
         app:layout_constraintStart_toStartOf="@+id/cardView"
-        tools:layout_editor_absoluteY="645dp" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.679" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
