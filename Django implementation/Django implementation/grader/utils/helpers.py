@@ -5,7 +5,7 @@ from nltk.corpus import stopwords
 from gensim.models import Word2Vec
 import gensim.models.keyedvectors as word2vec
 import math
-
+nltk.download('stopwords')
 def essay_to_wordlist(essay_v, remove_stopwords):
     """Remove the tagged labels and word tokenize the sentence."""
     essay_v = re.sub("[^a-zA-Z]", " ", essay_v)
