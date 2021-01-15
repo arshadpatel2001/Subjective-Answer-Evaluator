@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="{% static 'assets/css/style.css' %}" />
+  </head>
+  <body style="background-image: url({% static 'images/bg2.jpg' %}); background-size: cover">
+   {% block content %}
+<div class="login-box">
+
+    <form action="register" method="POST">
+        {% csrf_token %}
+  <h1>Register</h1>
+
+  <div class="textbox">
+    <i class="fas fa-user"></i>
+    <input type="text" name="first_name" placeholder="First Name">
+  </div>
+        <div class="textbox">
+    <i class="fas fa-user"></i>
+    <input type="text" name="last_name" placeholder="Last Name">
+  </div>
+
+<!--  <div class="textbox">-->
+<!--    <i class="fas fa-lock"></i>-->
+<!--    <input type="text" name="last_name" placeholder="Last Name">-->
+<!--  </div>-->
+  <div class="textbox">
+    <i class="fas fa-user"></i>
+    <input type="text" name="username" placeholder="Username">
+  </div>
+
+  <div class="textbox">
+    <i class="fas fa-phone"></i>
+    <input type="number" name="phone_number" placeholder="Phone Number">
+  </div>
+   <div class="textbox">
+    <i class="fas fa-envelope"></i>
+    <input type="email" name="email" placeholder="xyz@gmail.com">
+  </div>
+
+  <div class="textbox">
+    <i class="fas fa-key"></i>
+    <input type="password" name="password1" placeholder="Password">
+  </div>
+  <div class="textbox">
+    <i class="fas fa-key"></i>
+    <input type="password" name="password2" placeholder="Confirm Password">
+  </div>
+&nbsp;
+        <div class="custom-control custom-radio">
+  <input type="radio" class="custom-control-input" id="1" name="is_staff" value="option1" checked required>
+  <label class="custom-control-label" for="1" style="color:grey;font-size:20px">&nbsp;&nbsp;Teacher</label>
+</div>
+&nbsp;&nbsp;
+    <div class="custom-control custom-radio">
+  <input type="radio" class="custom-control-input" id="2" name="is_staff" value="option2" required>
+  <label class="custom-control-label" for="2" style="color:grey;font-size:20px">&nbsp;&nbsp;Student</label>
+</div>
+&nbsp;
+
+
+        <input type="submit" class="btn" value="Register"></form>
+
+</div>
+    {% endblock %}
+  </body>
+</html>
