@@ -105,7 +105,9 @@ def register(request):
         else:
             flag = False
         if password1 == password2:
+            print("Password checked")
             if len(phone_number) == 10:
+                print("Phone number chcked")
                 user = User.objects.create_user(username=username, first_name=first_name, last_name=last_name,
                                                 email=email, password=password2, is_staff=flag)
                 user.set_password(request.POST['password2'])
@@ -118,7 +120,8 @@ def register(request):
                 messages.info(request, 'Phone Number must be of 10 digits only')
 
         else:
-            messages.info(request, 'Confirm Password field not matching with password files')
+            messages.error(request, 'Confirm Password field not matching with password files')
+        print("Not entered in login")
 
     return render(request, 'register.html')
 
@@ -155,11 +158,23 @@ def logout(request):
 
 
 def teacher(request):
-    return render(request, 'teacher.html')
+    if request.user.is_authenticated:
+        if request.user.is_staff:
+            return render(request, 'teacher.html')
+        else:
+            return render(request, 'login.html')
+    else:
+        return render(request, 'login.html')
 
 
 def student(request):
-    return redirect('index')
+    if request.user.is_authenticated:
+        if request.user.is_staff:  # if teacher then again login
+            return render(request, 'login.html')
+        else:
+            return redirect('index')
+    else:
+        return render(request, 'login.html')
 
 
 def student_instructions(request):
@@ -171,13 +186,30 @@ def teacher_instructions(request):
 
 
 def sub(request):
-    return render(request, "sub.html")
+    if request.user.is_authenticated:
+        if request.user.is_staff:  # if teacher then again login
+            return render(request, 'login.html')
+        else:
+            return render(request, "sub.html")
+    else:
+        return render(request, 'login.html')
 
 
 def english(request):
-    print("english called")
-    return redirect('index')
+    if request.user.is_authenticated:
+        if request.user.is_staff:
+            return render(request, 'login.html')
+        else:
+            return redirect('index')
+    else:
+        return render(request, 'login.html')
 
 
 def subject(request):
-    return render(request, 'subjects.html')
+    if request.user.is_authenticated:
+        if request.user.is_staff:
+            return render(request, 'login.html')
+        else:
+            return render(request, 'subjects.html')
+    else:
+        return render(request, 'login.html')

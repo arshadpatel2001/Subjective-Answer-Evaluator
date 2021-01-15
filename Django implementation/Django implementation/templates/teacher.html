@@ -28,23 +28,25 @@
     <link rel="stylesheet" href="{% static 'assets/css/teacher.css' %}" />
   </head>
   <body style="background-image: url({% static 'images/blackboard.jpg' %}); background-size: cover">
+  <button onclick="javascript:history.go(-1);"><img src="https://img.icons8.com/wired/64/000000/back.png" ; width=15px/></button>
 <br><br><br><br>
+
   <h2 style="padding-left: 500px; color: white; font-size: 35px">Question</h2>
 <label style="vertical-align: middle; padding-left: 500px">
 <textarea style="vertical-align: middle" placeholder="Add Your question" rows="20" name="comment[text]"
           id="question" cols="40" class="ui-autocomplete-input" autocomplete="off" role="textbox"
-          aria-autocomplete="list" aria-haspopup="true"></textarea></label>
+          aria-autocomplete="list" aria-haspopup="true" required></textarea></label>
   <br><br><br><br><br>
   <h2 style="padding-left: 500px; color: white; font-size: 35px">Model Answer</h2>
 
 <label style="vertical-align: middle; padding-left: 500px">
 <textarea style="vertical-align: middle" placeholder="Add Your answer" rows="50" name="comment[text]"
           id="answer" cols="40" class="ui-autocomplete-input" autocomplete="off" role="textbox"
-          aria-autocomplete="list" aria-haspopup="true"></textarea></label>
+          aria-autocomplete="list" aria-haspopup="true" required></textarea></label>
 
 
 <br><br><br><br><br>
-<a href="/login"><button class="button">Button</button></a>
+<a href="/"><button class="button">Submit</button></a>
 
   </body>
 </html>
