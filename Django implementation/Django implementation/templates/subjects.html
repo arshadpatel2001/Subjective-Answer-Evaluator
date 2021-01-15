@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{% static 'assets/css/style.css' %}" />
+<style>
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("{% static 'images/school.jpg' %}");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 18px;
+}
+.button{
+padding-top: 350px;
+width: 280px;
+float: centre;
+padding-left: 600px;
+padding-top: 350px;
+width: 280px; float: centre; padding-left: 600px;
+}
+</style>
+</head>
+
+<body style="background-image: url({% static 'images/school.jpg' %}); background-cover: cover;">
+
+  <form style="padding-top: 350px; width: 280px; float: centre; padding-left: 600px;" action="sub">
+    <input type="submit" class="btn" value="Science" style="color: black; font-weight: bold; font-size: 20px"></form>
+  <form style="width: 280px; padding-left: 600px" action="english">
+    <input type="submit" class="btn" value="English" style="color: black; font-weight: bold; font-size: 20px width: 280px"></form>
+  <form style="width: 280px; padding-left: 600px" action="sub">
+    <input type="submit" class="btn" value="Mathematics" style="color: black; font-weight: bold; font-size: 20px"></form>
+    <form style="width: 280px; padding-left: 600px" action="sub">
+      <input type="submit" class="btn" value="History" style="color: black; font-weight: bold; font-size: 20px"></form>
+      <form style="width: 280px; padding-left: 600px" action="sub">
+    <input type="submit" class="btn" value="Geography" style="color: black; font-weight: bold; font-size: 20px">
+
+  </form>
+
+<a href="/login"></a>
+
+
+
+</body>
+
+</html>
