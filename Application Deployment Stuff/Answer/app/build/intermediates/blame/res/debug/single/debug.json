@@ -1,0 +1,522 @@
+[
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_answer.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_answer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_wave_tea.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_wave_tea.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_user.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_event.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_view.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\bg_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_images.jpg.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\images.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_activity.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_social.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\social.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_line.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\line.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_math.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\layout\\activity_math.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_stud.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_stud.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_account_balance_24.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_baseline_account_balance_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eng.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\eng.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_menu_24.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_baseline_menu_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_more_vert_24.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login_teacher.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\layout\\activity_login_teacher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\anim_bottom_animation.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\anim\\bottom_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_setting.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_user.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_person_outline_24.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\anim_from_left.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\anim\\from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dashboard.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_user.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sci.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\sci.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_student.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\layout\\activity_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\font_bangers.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\font\\bangers.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_btn.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\custom_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cycling.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\cycling.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_teach.gif.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\teach.gif"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_colour.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\bg_colour.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_user.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_new.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\btn_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_english.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\layout\\activity_english.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\font_antic.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\font\\antic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register_student.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\layout\\activity_register_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\font_acme.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\font\\acme.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_airport.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\airport.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_guide.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_header_login.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\header_login.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_border.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\round_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_top_left.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_top_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_navigation.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\layout\\activity_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\menu_navigation.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\menu\\navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bgnd.jpg.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\bgnd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_wave1.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_wave1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\font_amaranth.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\font\\amaranth.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_user.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\font_raleway_medium.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\font\\raleway_medium.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login_student.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\layout\\activity_login_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_regular.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\font\\roboto_regular.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register_teacher.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\layout\\activity_register_teacher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_convertible.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\convertible.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circleimage.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\circleimage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_teacher.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\layout\\activity_teacher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ex.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ex.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bgnd_ll.jpg.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\bgnd_ll.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\font_raleway_bold.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\font\\raleway_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_wave2.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_wave2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stud.gif.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\stud.gif"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\font_graduate.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\font\\graduate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\font_architects_daughter.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\font\\architects_daughter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_wave_ui.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_wave_ui.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pe.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\pe.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_comp.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\layout\\activity_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_medium.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\font\\roboto_medium.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\font_atma_medium.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\font\\atma_medium.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_header_register.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\header_register.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_register_login.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\register_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_steam_engine.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\steam_engine.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cloud.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\cloud.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circletransparant.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\circletransparant.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_wave_t3.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_wave_t3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_phone_iphone_24.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_baseline_phone_iphone_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_user.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_user.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_mediumitalic.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\font\\roboto_mediumitalic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_wave_te.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_wave_te.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_teacher_answer.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\layout\\activity_teacher_answer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_walking.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\walking.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_p_e.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\layout\\activity_p_e.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_math.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\math.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wave.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\wave.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_ui.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\bg_ui.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\font_raleway_light.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\font\\raleway_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_comp.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\comp.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_bold.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\font\\roboto_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_wave.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_wave.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\anim_from_right.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\anim\\from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sst.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\layout\\activity_sst.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\anim_top_animation.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\anim\\top_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_text_border.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\edit_text_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\font_averia_serif_libre_light.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\font\\averia_serif_libre_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\font_atomic_age.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\font\\atomic_age.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_download.jpg.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\download.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_wave_.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\ic_wave_.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_climbing.png.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\climbing.png"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_science.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\layout\\activity_science.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_bg.xml.flat",
+        "source": "C:\\Users\\Om Madhukar Chakane\\AndroidStudioProjects\\Answer\\app\\src\\main\\res\\drawable\\login_bg.xml"
+    }
+]

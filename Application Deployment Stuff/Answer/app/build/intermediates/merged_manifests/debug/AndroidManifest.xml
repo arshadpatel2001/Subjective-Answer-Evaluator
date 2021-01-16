@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.answer"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="29" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.answer.ProfileActivity" />
+        <activity
+            android:name="com.example.answer.Navigation"
+            android:label="@string/title_activity_navigation"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.example.answer.hello" />
+        <activity
+            android:name="com.example.answer.NavigationActivity"
+            android:label="@string/title_activity_navigation"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.example.answer.TeacherActivityAnswer" />
+        <activity android:name="com.example.answer.FragmentQuestion" />
+        <activity android:name="com.example.answer.FragmentAnswer" />
+        <activity android:name="com.example.answer.CompActivity" />
+        <activity android:name="com.example.answer.PEActivity" />
+        <activity android:name="com.example.answer.EnglishActivity" />
+        <activity android:name="com.example.answer.ScienceActivity" />
+        <activity android:name="com.example.answer.MathActivity" />
+        <activity android:name="com.example.answer.SstActivity" />
+        <activity android:name="com.example.answer.StudentActivity" />
+        <activity android:name="com.example.answer.TeacherActivity" />
+        <activity android:name="com.example.answer.MainActivity" />
+        <activity android:name="com.example.answer.LoginTeacher" />
+        <activity android:name="com.example.answer.LoginStudent" />
+        <activity android:name="com.example.answer.RegisterTeacher" />
+        <activity android:name="com.example.answer.RegisterStudent" />
+        <activity android:name="com.example.answer.SplashActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <provider
+            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+            android:authorities="com.example.answer.lifecycle-process"
+            android:exported="false"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

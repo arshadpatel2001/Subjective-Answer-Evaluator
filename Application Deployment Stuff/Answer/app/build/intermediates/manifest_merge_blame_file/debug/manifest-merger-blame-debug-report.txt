@@ -1,0 +1,136 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.answer"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:5:5-49:19
+12        android:allowBackup="true"
+12-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\3fad7ea4f0b845c6f6667debb95e1494\core-1.3.1\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+16        android:icon="@mipmap/ic_launcher"
+16-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:7:9-43
+17        android:label="@string/app_name"
+17-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:8:9-41
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:9:9-54
+19        android:supportsRtl="true"
+19-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:10:9-35
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme" >
+21-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:11:9-40
+22        <activity android:name="com.example.answer.ProfileActivity" />
+22-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:12:9-62
+22-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:12:19-50
+23        <activity
+23-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:13:9-16:59
+24            android:name="com.example.answer.Navigation"
+24-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:14:13-39
+25            android:label="@string/title_activity_navigation"
+25-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:15:13-62
+26            android:theme="@style/AppTheme.NoActionBar" />
+26-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:16:13-56
+27        <activity android:name="com.example.answer.hello" />
+27-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:17:9-43
+27-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:17:19-40
+28        <activity
+28-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:18:9-21:59
+29            android:name="com.example.answer.NavigationActivity"
+29-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:19:13-47
+30            android:label="@string/title_activity_navigation"
+30-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:20:13-62
+31            android:theme="@style/AppTheme.NoActionBar" />
+31-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:21:13-56
+32        <activity android:name="com.example.answer.TeacherActivityAnswer" />
+32-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:22:9-59
+32-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:22:19-56
+33        <activity android:name="com.example.answer.FragmentQuestion" />
+33-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:23:9-54
+33-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:23:19-51
+34        <activity android:name="com.example.answer.FragmentAnswer" />
+34-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:24:9-52
+34-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:24:19-49
+35        <activity android:name="com.example.answer.CompActivity" />
+35-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:25:9-50
+35-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:25:19-47
+36        <activity android:name="com.example.answer.PEActivity" />
+36-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:26:9-48
+36-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:26:19-45
+37        <activity android:name="com.example.answer.EnglishActivity" />
+37-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:27:9-53
+37-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:27:19-50
+38        <activity android:name="com.example.answer.ScienceActivity" />
+38-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:28:9-53
+38-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:28:19-50
+39        <activity android:name="com.example.answer.MathActivity" />
+39-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:29:9-50
+39-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:29:19-47
+40        <activity android:name="com.example.answer.SstActivity" />
+40-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:30:9-49
+40-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:30:19-46
+41        <activity android:name="com.example.answer.StudentActivity" />
+41-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:31:9-53
+41-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:31:19-50
+42        <activity android:name="com.example.answer.TeacherActivity" />
+42-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:32:9-53
+42-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:32:19-50
+43        <activity android:name="com.example.answer.MainActivity" />
+43-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:33:9-50
+43-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:33:19-47
+44        <activity android:name="com.example.answer.LoginTeacher" />
+44-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:34:9-50
+44-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:34:19-47
+45        <activity android:name="com.example.answer.LoginStudent" />
+45-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:35:9-50
+45-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:35:19-47
+46        <activity android:name="com.example.answer.RegisterTeacher" />
+46-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:36:9-53
+46-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:36:19-50
+47        <activity android:name="com.example.answer.RegisterStudent" />
+47-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:37:9-53
+47-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:37:19-50
+48        <activity android:name="com.example.answer.SplashActivity" >
+48-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:38:9-44:20
+48-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:38:19-49
+49            <intent-filter>
+49-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:39:13-43:29
+50                <action android:name="android.intent.action.MAIN" />
+50-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:40:17-69
+50-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:40:25-66
+51
+52                <category android:name="android.intent.category.LAUNCHER" />
+52-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:42:17-77
+52-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:42:27-74
+53            </intent-filter>
+54        </activity>
+55
+56        <meta-data
+56-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:46:9-48:57
+57            android:name="preloaded_fonts"
+57-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:47:13-43
+58            android:resource="@array/preloaded_fonts" />
+58-->C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:48:13-54
+59
+60        <provider
+60-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\66682bac27f64bb463b438dc006b709f\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+61            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+61-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\66682bac27f64bb463b438dc006b709f\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+62            android:authorities="com.example.answer.lifecycle-process"
+62-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\66682bac27f64bb463b438dc006b709f\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+63            android:exported="false"
+63-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\66682bac27f64bb463b438dc006b709f\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+64            android:multiprocess="true" />
+64-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\66682bac27f64bb463b438dc006b709f\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+65    </application>
+66
+67</manifest>
