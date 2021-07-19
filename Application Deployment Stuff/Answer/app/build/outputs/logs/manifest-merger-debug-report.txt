@@ -1,0 +1,351 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:2:1-51:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\e3c2ac5d97baabd0756645d3d1cea473\navigation-fragment-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\2b0f66982d0c7bf91b6545dc6b3b7edc\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\8ef0cf84a7bbf8735301bf86d52619f0\navigation-ui-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\81c261fb168d1d71c4dc527b96bb3e49\navigation-runtime-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\2df67c1e9babf7f9c93d07d9ca44f17e\navigation-common-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\cb2c142d79604646c89f5c60f9c25694\jetified-activity-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\7152398a3ddf7d6173b22d6a2e92061e\jetified-core-ktx-1.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\43a917f9534cb05f0a20bd294163eceb\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\5e32c8fd620a1e6362de798fd9dd015f\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\334d8ef66280a3992eca002228faf8de\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\ba0ed6b90ecdbadb94c34186e81cdf42\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-ui:2.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\4290ce4c137ef0a1a07a0538018e1335\navigation-ui-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\b17dc223d7884187c5580c1b3b9ce20c\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\4e039017508058e03141616af225b4eb\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\ae0d43a8cd9e2d0dca0ee7612d373384\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\bf8b737aa06780ce71e42516cac8efab\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\178b6c17baab56acb1efd68ac8dce9b7\navigation-fragment-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\ecbbc505c1ef8c2b1e510cce5e96bb37\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.19] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\738e2e1ca685ad4e73bfa12774744592\jetified-android-gif-drawable-1.2.19\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\f3dbe6f90843045abe4143e3bf77be20\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\24e0220640645498700fd025d00cbee9\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\22f084678c0c8123034752ff82b9a006\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\b5466dcfe12488b715be006750d7ab23\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\7d26c1198e9e9b91c6c8304fbdc008ea\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\76e2c37ae32353ccc0fe554bfc39f522\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\a9b4723696d45ce778f997adc687fa67\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\d2749d90a035347265104c21ab01820f\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\c12747f68fadffbb0e0ad871896b687f\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\421595daf2c691dedd5c6b994b674539\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\1376040c7d3147fc2c401857e5e5a47d\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\19cd27f85495db43b8cae171f6ebeaf7\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\e4893b92f6ed8aa1b859d89c323a0581\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\4641752ec657f9b4a42d6a06f25d7d22\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\4105de63edbfe1f7a89f44426cee4e60\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\6f621cac338d61e4657df2851636b5fa\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\7883f5b2dab973bb3ded7066b810b9ab\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\4ce449428576c173262907fc1e6b1200\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\d11b7b6e71ea1d75ade36eeae9902a34\navigation-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\07fffc4e66e9051edb002e23eddf3cce\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\bcc47630d8809b1a7b5b44edc2edb961\navigation-common-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\3fad7ea4f0b845c6f6667debb95e1494\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\66682bac27f64bb463b438dc006b709f\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\2cfe5f060ac9f62571b78a610b8cc5b5\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\7d6e7d8b4768dffce85856eb040e0ba1\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\adab60b679fd605dc0fe365f8feea7d6\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\df6b5736251feddbeaec3e406afdbc4d\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\31435e025cdccb9fb8afecf6a35971cd\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\ca6f5dc978f1f081f1b8afbaed8e2aeb\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\aa817d39ca4f9f9f764e5a0b70163814\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\ff664a25e1391f1156cfb2e2374c7147\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\6118f679eabfffe3c12f082544a87853\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\7ab9174479fb69088763d43ae7121c6c\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\f99660dd63e7ed3a1e117a2af2f25bf8\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\0a9c6c10530aac001e1e59b7495bfbcb\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\6ba1de9be899b775fb2e622bcf9ee329\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [pl.droidsonroids:relinker:1.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\9bf8e6745c4974e6f5a6d92bd4d9d71a\jetified-relinker-1.3.1\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:5:5-49:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\ba0ed6b90ecdbadb94c34186e81cdf42\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\ba0ed6b90ecdbadb94c34186e81cdf42\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\b17dc223d7884187c5580c1b3b9ce20c\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\b17dc223d7884187c5580c1b3b9ce20c\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\ecbbc505c1ef8c2b1e510cce5e96bb37\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\ecbbc505c1ef8c2b1e510cce5e96bb37\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\3fad7ea4f0b845c6f6667debb95e1494\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\3fad7ea4f0b845c6f6667debb95e1494\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\66682bac27f64bb463b438dc006b709f\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\66682bac27f64bb463b438dc006b709f\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\6118f679eabfffe3c12f082544a87853\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\6118f679eabfffe3c12f082544a87853\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\3fad7ea4f0b845c6f6667debb95e1494\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.answer.ProfileActivity
+ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:12:9-62
+	android:name
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:12:19-50
+activity#com.example.answer.Navigation
+ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:13:9-16:59
+	android:label
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:15:13-62
+	android:theme
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:14:13-39
+activity#com.example.answer.hello
+ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:17:9-43
+	android:name
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:17:19-40
+activity#com.example.answer.NavigationActivity
+ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:18:9-21:59
+	android:label
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:20:13-62
+	android:theme
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:21:13-56
+	android:name
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:19:13-47
+activity#com.example.answer.TeacherActivityAnswer
+ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:22:9-59
+	android:name
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:22:19-56
+activity#com.example.answer.FragmentQuestion
+ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:23:9-54
+	android:name
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:23:19-51
+activity#com.example.answer.FragmentAnswer
+ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:24:9-52
+	android:name
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:24:19-49
+activity#com.example.answer.CompActivity
+ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:25:9-50
+	android:name
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:25:19-47
+activity#com.example.answer.PEActivity
+ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:26:9-48
+	android:name
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:26:19-45
+activity#com.example.answer.EnglishActivity
+ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:27:9-53
+	android:name
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:27:19-50
+activity#com.example.answer.ScienceActivity
+ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:28:9-53
+	android:name
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:28:19-50
+activity#com.example.answer.MathActivity
+ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:29:9-50
+	android:name
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:29:19-47
+activity#com.example.answer.SstActivity
+ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:30:9-49
+	android:name
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:30:19-46
+activity#com.example.answer.StudentActivity
+ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:31:9-53
+	android:name
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:31:19-50
+activity#com.example.answer.TeacherActivity
+ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:32:9-53
+	android:name
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:32:19-50
+activity#com.example.answer.MainActivity
+ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:33:9-50
+	android:name
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:33:19-47
+activity#com.example.answer.LoginTeacher
+ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:34:9-50
+	android:name
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:34:19-47
+activity#com.example.answer.LoginStudent
+ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:35:9-50
+	android:name
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:35:19-47
+activity#com.example.answer.RegisterTeacher
+ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:36:9-53
+	android:name
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:36:19-50
+activity#com.example.answer.RegisterStudent
+ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:37:9-53
+	android:name
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:37:19-50
+activity#com.example.answer.SplashActivity
+ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:38:9-44:20
+	android:name
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:38:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:42:27-74
+meta-data#preloaded_fonts
+ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:46:9-48:57
+	android:resource
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:48:13-54
+	android:name
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml:47:13-43
+uses-sdk
+INJECTED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\e3c2ac5d97baabd0756645d3d1cea473\navigation-fragment-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\e3c2ac5d97baabd0756645d3d1cea473\navigation-fragment-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\2b0f66982d0c7bf91b6545dc6b3b7edc\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\2b0f66982d0c7bf91b6545dc6b3b7edc\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\8ef0cf84a7bbf8735301bf86d52619f0\navigation-ui-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\8ef0cf84a7bbf8735301bf86d52619f0\navigation-ui-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\81c261fb168d1d71c4dc527b96bb3e49\navigation-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\81c261fb168d1d71c4dc527b96bb3e49\navigation-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\2df67c1e9babf7f9c93d07d9ca44f17e\navigation-common-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\2df67c1e9babf7f9c93d07d9ca44f17e\navigation-common-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\cb2c142d79604646c89f5c60f9c25694\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\cb2c142d79604646c89f5c60f9c25694\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\7152398a3ddf7d6173b22d6a2e92061e\jetified-core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\7152398a3ddf7d6173b22d6a2e92061e\jetified-core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\43a917f9534cb05f0a20bd294163eceb\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\43a917f9534cb05f0a20bd294163eceb\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\5e32c8fd620a1e6362de798fd9dd015f\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\5e32c8fd620a1e6362de798fd9dd015f\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\334d8ef66280a3992eca002228faf8de\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\334d8ef66280a3992eca002228faf8de\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\ba0ed6b90ecdbadb94c34186e81cdf42\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\ba0ed6b90ecdbadb94c34186e81cdf42\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-ui:2.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\4290ce4c137ef0a1a07a0538018e1335\navigation-ui-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\4290ce4c137ef0a1a07a0538018e1335\navigation-ui-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\b17dc223d7884187c5580c1b3b9ce20c\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\b17dc223d7884187c5580c1b3b9ce20c\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\4e039017508058e03141616af225b4eb\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\4e039017508058e03141616af225b4eb\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\ae0d43a8cd9e2d0dca0ee7612d373384\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\ae0d43a8cd9e2d0dca0ee7612d373384\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\bf8b737aa06780ce71e42516cac8efab\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\bf8b737aa06780ce71e42516cac8efab\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\178b6c17baab56acb1efd68ac8dce9b7\navigation-fragment-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\178b6c17baab56acb1efd68ac8dce9b7\navigation-fragment-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\ecbbc505c1ef8c2b1e510cce5e96bb37\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\ecbbc505c1ef8c2b1e510cce5e96bb37\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.19] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\738e2e1ca685ad4e73bfa12774744592\jetified-android-gif-drawable-1.2.19\AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.19] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\738e2e1ca685ad4e73bfa12774744592\jetified-android-gif-drawable-1.2.19\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\f3dbe6f90843045abe4143e3bf77be20\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\f3dbe6f90843045abe4143e3bf77be20\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\24e0220640645498700fd025d00cbee9\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\24e0220640645498700fd025d00cbee9\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\22f084678c0c8123034752ff82b9a006\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\22f084678c0c8123034752ff82b9a006\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\b5466dcfe12488b715be006750d7ab23\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\b5466dcfe12488b715be006750d7ab23\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\7d26c1198e9e9b91c6c8304fbdc008ea\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\7d26c1198e9e9b91c6c8304fbdc008ea\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\76e2c37ae32353ccc0fe554bfc39f522\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\76e2c37ae32353ccc0fe554bfc39f522\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\a9b4723696d45ce778f997adc687fa67\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\a9b4723696d45ce778f997adc687fa67\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\d2749d90a035347265104c21ab01820f\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\d2749d90a035347265104c21ab01820f\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\c12747f68fadffbb0e0ad871896b687f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\c12747f68fadffbb0e0ad871896b687f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\421595daf2c691dedd5c6b994b674539\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\421595daf2c691dedd5c6b994b674539\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\1376040c7d3147fc2c401857e5e5a47d\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\1376040c7d3147fc2c401857e5e5a47d\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\19cd27f85495db43b8cae171f6ebeaf7\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\19cd27f85495db43b8cae171f6ebeaf7\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\e4893b92f6ed8aa1b859d89c323a0581\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\e4893b92f6ed8aa1b859d89c323a0581\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\4641752ec657f9b4a42d6a06f25d7d22\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\4641752ec657f9b4a42d6a06f25d7d22\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\4105de63edbfe1f7a89f44426cee4e60\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\4105de63edbfe1f7a89f44426cee4e60\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\6f621cac338d61e4657df2851636b5fa\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\6f621cac338d61e4657df2851636b5fa\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\7883f5b2dab973bb3ded7066b810b9ab\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\7883f5b2dab973bb3ded7066b810b9ab\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\4ce449428576c173262907fc1e6b1200\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\4ce449428576c173262907fc1e6b1200\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\d11b7b6e71ea1d75ade36eeae9902a34\navigation-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\d11b7b6e71ea1d75ade36eeae9902a34\navigation-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\07fffc4e66e9051edb002e23eddf3cce\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\07fffc4e66e9051edb002e23eddf3cce\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\bcc47630d8809b1a7b5b44edc2edb961\navigation-common-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\bcc47630d8809b1a7b5b44edc2edb961\navigation-common-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\3fad7ea4f0b845c6f6667debb95e1494\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\3fad7ea4f0b845c6f6667debb95e1494\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\66682bac27f64bb463b438dc006b709f\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\66682bac27f64bb463b438dc006b709f\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\2cfe5f060ac9f62571b78a610b8cc5b5\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\2cfe5f060ac9f62571b78a610b8cc5b5\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\7d6e7d8b4768dffce85856eb040e0ba1\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\7d6e7d8b4768dffce85856eb040e0ba1\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\adab60b679fd605dc0fe365f8feea7d6\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\adab60b679fd605dc0fe365f8feea7d6\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\df6b5736251feddbeaec3e406afdbc4d\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\df6b5736251feddbeaec3e406afdbc4d\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\31435e025cdccb9fb8afecf6a35971cd\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\31435e025cdccb9fb8afecf6a35971cd\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\ca6f5dc978f1f081f1b8afbaed8e2aeb\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\ca6f5dc978f1f081f1b8afbaed8e2aeb\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\aa817d39ca4f9f9f764e5a0b70163814\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\aa817d39ca4f9f9f764e5a0b70163814\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\ff664a25e1391f1156cfb2e2374c7147\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\ff664a25e1391f1156cfb2e2374c7147\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\6118f679eabfffe3c12f082544a87853\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\6118f679eabfffe3c12f082544a87853\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\7ab9174479fb69088763d43ae7121c6c\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\7ab9174479fb69088763d43ae7121c6c\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\f99660dd63e7ed3a1e117a2af2f25bf8\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\f99660dd63e7ed3a1e117a2af2f25bf8\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\0a9c6c10530aac001e1e59b7495bfbcb\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\0a9c6c10530aac001e1e59b7495bfbcb\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\6ba1de9be899b775fb2e622bcf9ee329\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\6ba1de9be899b775fb2e622bcf9ee329\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [pl.droidsonroids:relinker:1.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\9bf8e6745c4974e6f5a6d92bd4d9d71a\jetified-relinker-1.3.1\AndroidManifest.xml:5:5-43
+MERGED from [pl.droidsonroids:relinker:1.3.1] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\9bf8e6745c4974e6f5a6d92bd4d9d71a\jetified-relinker-1.3.1\AndroidManifest.xml:5:5-43
+INJECTED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Om Madhukar Chakane\AndroidStudioProjects\Answer\app\src\main\AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\66682bac27f64bb463b438dc006b709f\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\66682bac27f64bb463b438dc006b709f\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\66682bac27f64bb463b438dc006b709f\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\66682bac27f64bb463b438dc006b709f\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Om Madhukar Chakane\.gradle\caches\transforms-2\files-2.1\66682bac27f64bb463b438dc006b709f\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
