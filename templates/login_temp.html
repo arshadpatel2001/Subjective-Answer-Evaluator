@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="{% static 'assets/css/style.css' %}" />
+
+<script type="text/javascript">
+function func(k){
+   window.location.href = "/register";
+    return false;
+}
+      </script>
+  </head>
+
+  <body style="background-image: url({% static 'images/bg2.jpg' %}); background-size: cover">
+   {% block content %}
+   <button onclick="javascript:history.go(-1);"><img src="https://img.icons8.com/wired/64/000000/back.png" ; width=15px/></button>
+<div class="login-box">
+
+    <form action="login" method="POST">
+        {% csrf_token %}
+  <h1>Login</h1>
+  <div class="textbox">
+    <i class="fas fa-user"></i>
+    <input type="text" name="username" placeholder="Username" required>
+  </div>
+
+  <div class="textbox">
+    <i class="fas fa-lock"></i>
+    <input type="password" name="password" placeholder="Password" required>
+  </div>
+
+        <input type="submit" class="btn" value="Sign in"></form>
+     Don't have an account? <a href="#" onclick="return func(0)" id="/register"><strong>Register Here</strong></a>
+</div>
+    {% endblock %}
+  </body>
+</html>

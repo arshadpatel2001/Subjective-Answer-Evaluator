@@ -1,0 +1,147 @@
+<!DOCTYPE HTML>
+{% load static %}
+<html>
+	<head>
+		<title>Rectifica</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="{% static 'assets/css/main.css' %}" />
+	</head>
+	 <body background="{% static 'images/barel.jpg' %}">
+
+		<!-- Header -->
+			<header id="header">
+				<div class="inner">
+					<a href="" class="logo">Rectifica</a>
+					<nav id="nav">
+						{% if user.is_authenticated %}
+							<li>Hey, {{user.first_name}}</li>
+
+							<a href="/logout">Logout</a>
+							{% else %}
+							<a href="/login">Login</a>
+							<a href="/register">Register</a>
+						{% endif %}
+
+					</nav>
+					<a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+				</div>
+			</header>
+
+		<!-- Banner -->
+			<section id="banner">
+				<div class="inner">
+					<header>
+						<h1>Welcome to Rectifica</h1>
+					</header>
+
+					<div class="flex ">
+
+						<div>
+							<a href="/teacher"><span class="icon fa-user"></span></a>
+							<h3>Teacher</h3>
+
+
+						</div>
+
+						<div>
+							<a href="/student"><span class="icon fa-graduation-cap"></span></a>
+							<h3>Student</h3>
+
+						</div>
+
+						<div>
+							<a href="/subject"><span class="icon fa-book"></span></a>
+							<h3>Dashboard</h3>
+
+						</div>
+						<div>
+							<a href="/agora_index"><span class="icon fa-camera"></span></a>
+							<h3>Video Chat</h3>
+
+						</div>
+
+					</div>
+
+					<footer>
+						<a href="/login" class="button">Get Started</a>
+					</footer>
+				</div>
+			</section>
+
+
+		<!-- Three -->
+			<section id="three" class="wrapper align-center">
+				<div class="inner">
+					<div class="flex flex-2">
+						<article>
+							<div class="image round">
+								<img src="{% static 'images/teacher1.jpg' %}" alt="teacher" />
+							</div>
+							<header>
+								&nbsp;&nbsp;
+								<h3 style="font-size:30px"><strong>Teacher</strong></h3>
+							</header>
+							<p>Instructions for Teachers</p>
+							<footer>
+								<a href="/teacher_instructions" class="button">Learn More</a>
+							</footer>
+						</article>
+						<article>
+							&nbsp;
+							<div class="image round">
+								&nbsp;&nbsp;&nbsp;
+								&nbsp;
+								&nbsp;<img src="{% static 'images/student1.jpg' %}" alt="student" />
+							</div>
+							<header>
+								&nbsp;&nbsp;
+								<h3 style="font-size:30px"><strong>Student</strong></h3>
+							</header>
+							<p>Instructions for Students</p>
+							<footer>
+								<a href="/student_instructions" class="button">Learn More</a>
+							</footer>
+						</article>
+					</div></div>
+
+			</section>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="inner">
+
+					<h3>Get in touch</h3>
+
+					<form action="#" method="post">
+
+						<div class="field half first">
+							<label for="name">Name</label>
+							<input name="name" id="name" type="text" placeholder="Name">
+						</div>
+						<div class="field half">
+							<label for="email">Email</label>
+							<input name="email" id="email" type="email" placeholder="Email">
+						</div>
+						<div class="field">
+							<label for="message">Message</label>
+							<textarea name="message" id="message" rows="6" placeholder="Message"></textarea>
+						</div>
+						<ul class="actions">
+							<li><input value="Send Message" class="button alt" type="submit"></li>
+						</ul>
+					</form>
+
+
+				</div>
+			</footer>
+
+
+		<!-- Scripts -->
+			<script src="{% static 'assets/js/jquery.min.js' %}"></script>
+			<script src="{% static 'assets/js/skel.min.js' %}"></script>
+			<script src="{% static 'assets/js/util.js' %}"></script>
+			<script src="{% static 'assets/js/main.js' %}"></script>
+
+	</body>
+</html>
