@@ -1,4 +1,3 @@
-Rectifica
 
 # Description
 Rectifica is fully feature integrated application that could help the education system improve by making use of technology to automate subjective answer evaluation. The goal is to get image snapshots of subjective answers or to get the answers through a website. The Images then will be converted to text using OCR and this text answer will be graded based on model answer provided by Teacher/Professor based on custom word embedding models based LSTM model that has the capability to give good accuracy and good results. Another integrated feature would be to add video conferencing capabilities so that rectifica would be one stop solution for teaching and grading.
@@ -18,20 +17,20 @@ During the quarantine period of covid, learning was mostly remote and through on
 
 # Images
 
-![Sample Form](https://github.com/arshadpatel2001/Subjective-Answer-Evaluator/blob/master/Images/Form.png)
+![Sample Form](/Images/Form.png)
 
-![Image Alignment](https://github.com/arshadpatel2001/Subjective-Answer-Evaluator/blob/master/Images/Imagealignment.png)
+![Image Alignment](/Images/Imagealignment.png)
 
-![Homography Matrix](https://github.com/arshadpatel2001/Subjective-Answer-Evaluator/blob/master/Images/Homographymatrix.png)
+![Homography Matrix](/Images/Homographymatrix.png)
 
-![OCR](https://github.com/arshadpatel2001/Subjective-Answer-Evaluator/blob/master/Images/OCR.png)
+![OCR](/Images/OCR.png)
 
-![Training Metrics](https://github.com/arshadpatel2001/Subjective-Answer-Evaluator/blob/master/Images/TrainingMetrics.png)
+![Training Metrics](/Images/TrainingMetrics.png)
 
-![Home Page](https://github.com/arshadpatel2001/Subjective-Answer-Evaluator/blob/master/Images/Homepage.png)
+![Home Page](/Images/Homepage.png)
 
-![Teacher Portal](https://github.com/arshadpatel2001/Subjective-Answer-Evaluator/blob/master/Images/TeacherPortal.png)
+![Teacher Portal](/Images/TeacherPortal.png)
 
-![Test Page](https://github.com/arshadpatel2001/Subjective-Answer-Evaluator/blob/master/Images/Testpage.png)
+![Test Page](/Images/Testpage.png)
 
-![Answer Verifier](https://github.com/arshadpatel2001/Subjective-Answer-Evaluator/blob/master/Images/AnswerVerifier.png)
+![Answer Verifier](/Images/AnswerVerifier.png)
